@@ -1,2 +1,2 @@
-# software-project-template
-A generic software project structure
+# generic-software-project
+a template for a generic software project
